@@ -1,5 +1,5 @@
 - Add Gecko Webdriver to priv/ folders
-- Add delimited content to dropfileshere/compile.txt
+- Add delimited content to dropfileshere/compile.txt (first zzz is title, second zzz is description, third zzz is for specifications)
 - Add images in sequential format (e.g. image1.png, image2.png, image3.png) (matches the compile order) (change file format in code if not a png)
 
 Tip to obtain images from multiple documents:
